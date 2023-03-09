@@ -11,6 +11,7 @@
 		3049CAD029B54F4E00422043 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3049CACF29B54F4E00422043 /* ContentView.swift */; };
 		3049CAD229B54F5000422043 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3049CAD129B54F5000422043 /* Assets.xcassets */; };
 		3049CAD529B54F5000422043 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3049CAD429B54F5000422043 /* Preview Assets.xcassets */; };
+		3049CADC29B982F500422043 /* patientPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3049CADB29B982F500422043 /* patientPhoto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3049CACF29B54F4E00422043 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3049CAD129B54F5000422043 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3049CAD429B54F5000422043 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3049CADB29B982F500422043 /* patientPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = patientPhoto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3049CACD29B54F4E00422043 /* Major_Software_ProjectApp.swift */,
 				3049CACF29B54F4E00422043 /* ContentView.swift */,
+				3049CADB29B982F500422043 /* patientPhoto.swift */,
 				3049CAD129B54F5000422043 /* Assets.xcassets */,
 				3049CAD329B54F5000422043 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3049CAD029B54F4E00422043 /* ContentView.swift in Sources */,
+				3049CADC29B982F500422043 /* patientPhoto.swift in Sources */,
 				3049CACE29B54F4E00422043 /* Major_Software_ProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
